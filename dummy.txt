@@ -1,1 +1,2 @@
-My dummy file
+My dummy file.
+now i was added from vs code terminal
